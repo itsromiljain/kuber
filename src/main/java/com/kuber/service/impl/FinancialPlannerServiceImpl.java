@@ -1,8 +1,10 @@
 package com.kuber.service.impl;
 
 import com.kuber.service.FinancialPlannerService;
+import org.springframework.stereotype.Service;
 
-public class FinancialPlannerServiceImpl implements FinancialPlannerService{
+@Service
+public class FinancialPlannerServiceImpl implements FinancialPlannerService {
 
 	
 }
